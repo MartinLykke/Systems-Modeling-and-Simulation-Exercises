@@ -637,7 +637,7 @@
 									</GenericParameterSubstitute>
 									<Parameters>
 										<Parameter>
-											<Name><![CDATA[parameter]]></Name>
+											<Name><![CDATA[vip]]></Name>
 										</Parameter>
 									</Parameters>
 									<ReplicationFlag>true</ReplicationFlag>
